@@ -1,8 +1,8 @@
 
 body{
-    background-color: rgb(232, 238, 243);
+    background-color:white;
 }
-.btn{
+.btn-1{
     background-image: linear-gradient(to right, rgb(233, 38, 38) , rgb(179, 45, 209));
     
 }
@@ -10,16 +10,11 @@ body{
 i{
 
     margin: 12px;
-    font-size: large;
+
 }
-.you-1{
-    color: red;
-}
-.ins{
-    color:  rgb(179, 45, 209);
-}
-.lin{
-    color: blue;
+
+.first{
+    background-color: rgb(232, 238, 243);;
 }
 .follow{
     background-color: white;
@@ -125,8 +120,9 @@ i{
 
 }
 .stem{
+    display: flex;
     background-color: rgb(183, 183, 226);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(183, 183, 226);
     border-radius:15px;
     height: 65px;
@@ -137,7 +133,7 @@ i{
 }
 .skill{
     background-color: rgb(165, 161, 161);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(165, 161, 161);
     border-radius:15px;
     height: 65px;
@@ -147,7 +143,7 @@ i{
 }
 .code{
     background-color:rgb(98, 98, 143);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(98, 98, 143);
     border-radius:15px;
     height: 65px;
@@ -157,7 +153,7 @@ i{
 }
 .design{
     background-color: rgb(63, 136, 158);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(63, 136, 158);
     border-radius:15px;
     height: 65px;
@@ -167,7 +163,7 @@ i{
 }
 .comic{
     background-color: rgb(90, 89, 90);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(90, 89, 90);
     border-radius:15px;
     height: 65px;
@@ -177,7 +173,7 @@ i{
 }
 .game{
     background-color: rgb(248, 211, 242);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(248, 211, 242);
     border-radius:15px;
     height: 65px;
@@ -187,7 +183,7 @@ i{
 }
 .flash{
     background-color: rgb(192, 194, 65);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(192, 194, 65);
     border-radius:15px;
     height: 65px;
@@ -197,7 +193,7 @@ i{
 }
 .other{
     background-color: rgb(206, 151, 206);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid rgb(206, 151, 206);
     border-radius:15px;
     height: 65px;
@@ -205,4 +201,33 @@ i{
     margin: 10px;
 
 }
+
+.sixth{
+    background-color:rgb(235, 222, 154);
+    border: 1px solid rgb(235, 222, 154);
+    border-radius: 15px;
+
+}
+.row-6{
+    padding:4em;
+}
+.create{
+    margin-left: 4.5rem;
+}
+.seven{
+    
+    margin-top: 15px;
+    background-color:rgb(232, 238, 243);
+    border: 1px solid rgb(232, 238, 243);
+    border-radius: 15px;
+
+}
+.row-7{
+    padding: 1em;
+}
+.teach{
+    margin-left: 4.5em;
+    padding: 4em;
+}
+
 
