@@ -7,7 +7,20 @@ body{
     
 }
 
+i{
 
+    margin: 12px;
+    font-size: large;
+}
+.you-1{
+    color: red;
+}
+.ins{
+    color:  rgb(179, 45, 209);
+}
+.lin{
+    color: blue;
+}
 .follow{
     background-color: white;
     border:2px solid white;
