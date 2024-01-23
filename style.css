@@ -54,7 +54,7 @@ i{
     background-color: red;
     border:1px solid red;
     border-radius: 15px;
-    padding: 20px 30px;
+   padding: 20px 30px;
     margin: 15px;
     
 }
@@ -212,7 +212,7 @@ i{
     padding:4em;
 }
 .create{
-    margin-left: 4.5rem;
+    margin-left: 1.5rem;
 }
 .seven{
     
@@ -226,8 +226,32 @@ i{
     padding: 1em;
 }
 .teach{
-    margin-left: 4.5em;
-    padding: 4em;
+    margin-left: 1em;
+    padding: 1em;
 }
+.eight{
+    
+    margin-top: 15px;
+    background-color:rgb(168, 189, 206);
+    border: 1px solid rgb(168, 189, 206);
+    border-radius: 15px;
+
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
 
 
