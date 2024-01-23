@@ -54,7 +54,7 @@ i{
     background-color: red;
     border:1px solid red;
     border-radius: 15px;
-   padding: 20px 30px;
+    padding: 20px 30px;
     margin: 15px;
     
 }
@@ -78,7 +78,7 @@ i{
     background-color:gray;
     border:1px solid gray;
     border-radius: 15px;
-    padding: 20px 30px;
+   padding: 20px 30px;
     margin: 15px;
 
 }
@@ -212,7 +212,7 @@ i{
     padding:4em;
 }
 .create{
-    margin-left: 1.5rem;
+    margin-left: 4.5rem;
 }
 .seven{
     
@@ -226,8 +226,8 @@ i{
     padding: 1em;
 }
 .teach{
-    margin-left: 1em;
-    padding: 1em;
+    margin-left: 4.5em;
+    padding: 4em;
 }
 .eight{
     
